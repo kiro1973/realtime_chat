@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#313335</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <color name="colorAppBarPrimary">#EBEBEB</color>
+    <color name="colorAppBarSecondary">#282828</color>
+
+    <color name="startBlue">#00E2FF</color>
+    <color name="endBlue">#00A7BC</color>
+
+    <color name="buttonUnfocus">#A9AAA9</color>
+    <color name="buttonUnfocusOnClick">#8A8A8A</color>
+    <color name="buttonFocus">#FF457B</color>
+    <color name="buttonFocusOnClick">#FF2967</color>
+    <color name="buttonLongFocusStart">#FF9A07</color>
+    <color name="buttonLongFocusOnClickEnd">#F7892B</color>
+    <color name="buttonLongUnfocusStart">#FAB045</color>
+    <color name="buttonLongUnfocusOnClickEnd">#FF8116</color>
+
+
+    <color name="buttonBlueLongFocusStart">#00B0FF</color>
+    <color name="buttonBlueLongFocusOnClickEnd">#0949EC</color>
+    <color name="buttonBlueLongUnFocusStart">#4BC7FF</color>
+    <color name="buttonBlueLongUnFocusOnClickEnd">#2053EC</color>
+
+    <color name="buttonPurpleLongFocusStart">#F415FF</color>
+    <color name="buttonPurpleLongFocusOnClickEnd">#FB0758</color>
+    <color name="buttonPurpleLongUnFocusStart">#E634EF</color>
+    <color name="buttonPurpleLongUnFocusOnClickEnd">#FF3276</color>
+
+    <color name="shadow">#CC838383</color>
+    <color name="shadowDark">#E6464646</color>
+    <color name="textHighLight">#6FD2FF</color>
+    <color name="textLink">#00B0FF</color>
+
+    <color name="colorWhite1">#FFFFFF</color>
+    <color name="colorWhite2">#EBEBEB</color>
+    <color name="colorWhite3">#D7D7D7</color>
+    <color name="colorWhite4">#C3C3C3</color>
+    <color name="colorWhite5">#AFAFAF</color>
+    <color name="colorWhite6">#9B9B9B</color>
+    <color name="colorWhite7">#878787</color>
+
+
+    <color name="colorBlack1">#000000</color>
+    <color name="colorBlack2">#141414</color>
+    <color name="colorBlack3">#282828</color>
+    <color name="colorBlack4">#3C3C3C</color>
+    <color name="colorBlack5">#505050</color>
+    <color name="colorBlack6">#646464</color>
+    <color name="colorBlack7">#787878</color>
+
+
+    <color name="colorBlue1">#00B0FF</color>
+    <color name="colorBlue2">#0FB4FF</color>
+    <color name="colorBlue3">#1EBCFF</color>
+    <color name="colorBlue4">#2DC3FF</color>
+    <color name="colorBlue5">#3CC5FF</color>
+    <color name="colorBlue6">#4BCAF4</color>
+    <color name="colorBlue7">#5AD2FF</color>
+
+    <color name="colorGenderMale">#0F73BA</color>
+    <color name="colorGenderFemale">#FF1D86</color>
+
+    <color name="colorBottomNavigation">#EDEDED</color>
+
+    <color name="colorGestureText">#0FB4FF</color>
+
+    <color name="Back">#000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="blight">#292929</color>
+    <color name="button_icon_color">#331B1B</color>
+    <color name="colorNavIcon">#DAE9F6</color>
+    <color name="colorNavText">#E6E6E6</color>
+    <color name="pink">#7524D8</color>
+    <color name="dark_blue">#00569A</color>
+    <color name="text_color_dark">#00569A</color>
+    <color name="redd">#DAE9F6</color>
+    <color name="bluex">#B9B9B9</color>
+    <color name="new1">#EE680E</color>
+    <color name="new2">#A60303</color>
+    <color name="new3">#0F620A</color>
+    <color name="new4">#3B3535</color>
+    <color name="new5">#DAE9F6</color>
+    <color name="new6">#F1B9B4B4</color>
+    <color name="new7">#36CE5C</color>
+    <color name="new8">#FA00F7FF</color>
+    <color name="new9">#3C3F41</color>
+    <color name="new10">#36CE5C</color>
+    <color name="bluex_task">#CFDC87B7</color>
+    <color name="diamond_code">#F1F1F1</color>
+    <color name="ic_ae_background">#292929</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

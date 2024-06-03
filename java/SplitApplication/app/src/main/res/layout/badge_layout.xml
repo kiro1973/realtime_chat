@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <!-- Badge background -->
+    <ImageView
+        android:id="@+id/badge_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_notifications_none_24"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"/>
+
+    <!-- Badge count -->
+    <TextView
+        android:id="@+id/badge_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"
+        android:layout_alignTop="@id/badge_background"
+        android:layout_alignEnd="@id/badge_background"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="2dp"
+        android:gravity="center"/>
+
+</RelativeLayout>
